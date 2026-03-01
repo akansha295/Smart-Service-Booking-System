@@ -1,0 +1,17 @@
+# Build folder
+build/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Jar and war files
+*.jar
+*.war
+
+# IDE files
+.settings/
+.project
+.classpath
