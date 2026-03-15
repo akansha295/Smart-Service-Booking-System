@@ -1,5 +1,5 @@
-# 🚀 Smart Service Booking and Management System
-
+# 🚀 🚀 Smart Service Booking and Management System (Servlet Version)
+This project was later migrated to a Spring Boot REST API version to implement a layered architecture and modern backend practices.
 ## 📌 Project Overview
 
 The **Smart Service Booking and Management System** is a web-based application developed using **Java, Servlets, JDBC, Hibernate, and MySQL**.
